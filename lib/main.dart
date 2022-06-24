@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         );
       },
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Admin App',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
